@@ -1,0 +1,7 @@
+fname, "lname", "group", "mdp", "status"
+"toto", "tot", "Management", "mdp", "user" 
+"toto", "toto", "Marketing", "mdp", "user" 
+"toto", "tot", "Management", "mdp", "user" 
+"Admin", "", "", "", "group" 
+"Management", "", "", "", "group" 
+"Direction", "", "", "", "group"

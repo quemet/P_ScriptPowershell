@@ -1,0 +1,5 @@
+Remove-LocalUser -Name "toto tot"
+Remove-LocalUser -Name "toto toto"
+Remove-LocalGroup -Name "Admin"
+Remove-LocalGroup -Name "Management"
+Remove-LocalGroup -Name "Direction"
